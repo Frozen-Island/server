@@ -1,0 +1,3 @@
+[submodule "global-enums"]
+	path = global-enums
+	url = https://github.com/Frozen-Island/global-enums.git
